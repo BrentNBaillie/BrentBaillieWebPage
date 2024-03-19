@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXuK8hyK7skbKnupSdtQEb4XrNvUgWAYLd4fZU1V8z3ZuWSYfeN8JETlgBUUimTDb+UtkGr1xIMHIkIQxcYqMg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Blazor\\BrentBaillieWebPage\\BrentBaillieCommon\\BrentBaillieCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cools\\.nuget\\packages\\mongodb.bson\\2.24.0\\mongodb.bson.2.24.0.nupkg.sha512",
+    "C:\\Users\\cools\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\cools\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

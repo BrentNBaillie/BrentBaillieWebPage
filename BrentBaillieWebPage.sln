@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrentBaillieWebPage", "BrentBaillieWebPage\BrentBaillieWebPage.csproj", "{8E901843-7059-4D49-B9E4-9740211DF459}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrentBaillieAPI", "BrentBaillieAPI\BrentBaillieAPI.csproj", "{2A4D57F4-A520-453E-ADBF-A799331C273A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrentBaillieCommon", "BrentBaillieCommon\BrentBaillieCommon.csproj", "{5773B5FA-7F39-41C4-8680-1ABA60A80CB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E901843-7059-4D49-B9E4-9740211DF459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E901843-7059-4D49-B9E4-9740211DF459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E901843-7059-4D49-B9E4-9740211DF459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E901843-7059-4D49-B9E4-9740211DF459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4D57F4-A520-453E-ADBF-A799331C273A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4D57F4-A520-453E-ADBF-A799331C273A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4D57F4-A520-453E-ADBF-A799331C273A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4D57F4-A520-453E-ADBF-A799331C273A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5773B5FA-7F39-41C4-8680-1ABA60A80CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5773B5FA-7F39-41C4-8680-1ABA60A80CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5773B5FA-7F39-41C4-8680-1ABA60A80CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5773B5FA-7F39-41C4-8680-1ABA60A80CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8B46A55-EF1F-4D1E-8D29-527BE70930F3}
+	EndGlobalSection
+EndGlobal

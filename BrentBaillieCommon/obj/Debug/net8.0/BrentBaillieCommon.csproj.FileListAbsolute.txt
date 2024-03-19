@@ -1,0 +1,12 @@
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\obj\Debug\net8.0\BrentBaillieCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\obj\Debug\net8.0\BrentBaillieCommon.AssemblyInfoInputs.cache
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\obj\Debug\net8.0\BrentBaillieCommon.AssemblyInfo.cs
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\obj\Debug\net8.0\BrentBaillieCommon.csproj.CoreCompileInputs.cache
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\bin\Debug\net8.0\BrentBaillieCommon.deps.json
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\bin\Debug\net8.0\BrentBaillieCommon.dll
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\bin\Debug\net8.0\BrentBaillieCommon.pdb
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\obj\Debug\net8.0\BrentBaillieCommon.csproj.AssemblyReference.cache
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\obj\Debug\net8.0\BrentBaillieCommon.dll
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\obj\Debug\net8.0\refint\BrentBaillieCommon.dll
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\obj\Debug\net8.0\BrentBaillieCommon.pdb
+D:\Code\Blazor\BrentBaillieWebPage\BrentBaillieCommon\obj\Debug\net8.0\ref\BrentBaillieCommon.dll
